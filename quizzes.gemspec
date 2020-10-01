@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = ">= 2.2.2"
 
-  s.add_dependency "rails", "~> 5.0.0", ">= 5.0.0.1"
+  s.add_dependency "rails", "~> 6.0.0", ">= 6.0.0.1"
 
   s.add_development_dependency "pry", "~> 0.10"
   s.add_development_dependency "shoulda-matchers", "~> 3.1"
